@@ -1,2 +1,4 @@
-# cs-study
-컴퓨터 지식 공부
+# :computer: CS-study
+
+### :date: Challenge 
+7일에 7개 지식 획득 
